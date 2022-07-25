@@ -1,5 +1,28 @@
 .background-color {
-    background-color: #fae8e8;
+    background-color: #fceae8;
+}
+
+.bg-bag {
+    background-color: #da70d6;
+}
+
+.bg-shoes {
+    background-color: #0000ff;
+}
+
+.butn-buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 35px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.dollar-color {
+    color: #ff2c7f;
+
 }
 
 /* .carousel .carousel-item {
